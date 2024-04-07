@@ -3788,10 +3788,10 @@ term-size@^1.2.0:
   dependencies:
     execa "^0.7.0"
 
-terser@^5.14.2:
-  version "5.14.2"
-  resolved "https://registry.yarnpkg.com/terser/-/terser-5.14.2.tgz#9ac9f22b06994d736174f4091aa368db896f1c10"
-  integrity sha512-oL0rGeM/WFQCUd0y2QrWxYnq7tfSuKBiqTjRPWrRgB46WD/kiwHwF8T23z78H6Q6kGCuuHcPB+KULHRdxvVGQA==
+terser@^5.17.2:
+  version "5.17.2"
+  resolved "https://registry.yarnpkg.com/terser/-/terser-5.17.2.tgz#06c9818ae998066234b985abeb57bb7bff29d449"
+  integrity sha512-1D1aGbOF1Mnayq5PvfMc0amAR1y5Z1nrZaGCvI5xsdEfZEVte8okonk02OiaK5fw5hG1GWuuVsakOnpZW8y25A==
   dependencies:
     "@jridgewell/source-map" "^0.3.2"
     acorn "^8.5.0"
