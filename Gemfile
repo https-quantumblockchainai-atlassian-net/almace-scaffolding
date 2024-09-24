@@ -5,7 +5,7 @@ gem "jekyll", "4.2.2"
 group :development do
   gem "jekyll-last-modified-at"
   gem "stringex"
-  gem "webrick"
+  gem "webrick", ">= 1.8.2"
 end
 
 group :jekyll_plugins do
