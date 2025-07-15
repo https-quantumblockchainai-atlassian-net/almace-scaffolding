@@ -1,11 +1,11 @@
 source "https://rubygems.org"
 
-gem "jekyll", "4.2.2"
+gem "jekyll", "4.3.0"
 
 group :development do
-  gem "jekyll-last-modified-at"
+  gem "jekyll-last-modified-at", ">= 1.3.2"
   gem "stringex"
-  gem "webrick"
+  gem "webrick", ">= 1.8.2"
 end
 
 group :jekyll_plugins do
